@@ -27,7 +27,7 @@ namespace Variables
             decimal de = 5;         //16 byte
 
             char ch = '2';          //2 byte
-            string str = "Fatih";   //sınırsız
+            string str = "Name";   //sınırsız
 
             bool b1 = true;
             bool b2 = false;
@@ -41,9 +41,9 @@ namespace Variables
 
             // string values
             string str1 = string.Empty;
-            str1 = "Fatih Hacıoğlu";
-            string ad = "Fatih";
-            string soyad = "Hacıoğlu";
+            str1 = "Name Surname";
+            string ad = "Name";
+            string soyad = "Surname";
             string tamIsim = ad + " " + soyad;
 
             //integer values
