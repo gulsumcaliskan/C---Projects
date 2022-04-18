@@ -20,7 +20,7 @@ namespace TypeConversions
             float i = h;
             Console.WriteLine("i: " + i);
 
-            string e = "Fatih";
+            string e = "Name";
             char f = 'k';
             object g = e + f + d;
             Console.WriteLine("g:" + g);
